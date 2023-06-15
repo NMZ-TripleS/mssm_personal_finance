@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1001793926988",
+    "project_id": "mssm-personal-finance",
+    "storage_bucket": "mssm-personal-finance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001793926988:android:193706e24356e567f1c1e9",
+        "android_client_info": {
+          "package_name": "com.example.mssm_personal_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001793926988-ljdrp18jlqj6s0lt55kf0tjqmnogj608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHN8ch-3a8H6Ydjf59n0374EfZ8Mfi04M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001793926988-ljdrp18jlqj6s0lt55kf0tjqmnogj608.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001793926988-ofgjfqptf886jdvvbbsfnms7hgmbudfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mssmPersonalFinance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
